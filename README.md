@@ -1,4 +1,4 @@
-# Call Analyzer Frontend
+# Sales Call Review
   
 
 This is a Nuxt codebase (Vue + Typescript + Vuetify). It uses the coposition-api method of creating components. The end result is a pre-generated static site.
